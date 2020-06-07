@@ -9,7 +9,7 @@
 
 * pkg install python
 
-* pkf install python2
+* pkg install python2
 
 * pip2 intall requests mechanize
 
