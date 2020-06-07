@@ -19,4 +19,4 @@
 
 * cd SmartBoy
 
-*python2.py
+* python2.py
